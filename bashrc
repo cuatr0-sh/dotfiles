@@ -10,3 +10,4 @@ alias grep='grep --color=auto'
 
 printf "Irrelevant. Purge noise. Refocus.\n\n"
 PS1='\[\e[1;30;47m\][\w]\[\e[0m\]\n\$ '
+export GTK_THEME=Adwaita:dark
