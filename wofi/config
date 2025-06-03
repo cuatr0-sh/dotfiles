@@ -1,0 +1,7 @@
+show=drun
+allow_images=true
+image_size=30
+term=kitty
+no_actions=true
+location=center
+hide_scroll=true
