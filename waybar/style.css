@@ -6,7 +6,7 @@
 
 window#waybar {
     padding: 10px;
-    background-color: rgba(0, 0, 0, 0.7);
+    background-color: rgba(0, 0, 0, 0.85);
     /*
     border-bottom: 3px solid rgba(100, 114, 125, 0.5);
     border-top: 3px solid rgba(100, 114, 125, 0.5);
