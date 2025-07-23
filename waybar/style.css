@@ -5,17 +5,15 @@
 }
 
 window#waybar {
-    padding: 10px;
-    background-color: rgba(0, 0, 0, 0.85);
-    /*
-    border-bottom: 3px solid rgba(100, 114, 125, 0.5);
-    border-top: 3px solid rgba(100, 114, 125, 0.5);
-    border-right: 3px solid rgba(100, 114, 125, 0.5);
-    border-left: 3px solid rgba(100, 114, 125, 0.5);
+    margin: 20px;
+    background-color: rgba(0, 0, 0, 0.3);
+    border-bottom: 2px solid rgba(100, 0, 125, 1);
+    border-top: 2px solid rgba(100, 0, 125, 1);
+    border-right: 2px solid rgba(100, 0, 125, 1);
+    border-left: 2px solid rgba(100, 0, 125, 1);
     color: #ffffff;
     transition-property: background-color;
     transition-duration: .5s;
-    */
 }
 
 window#waybar.hidden {
@@ -125,7 +123,7 @@ button:hover {
 */
 #battery {
     background-color: transparent;
-    color: #000000;
+    color: #ffffff;
 }
 
 #battery.charging, #battery.plugged {
